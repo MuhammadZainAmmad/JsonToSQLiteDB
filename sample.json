@@ -1,0 +1,46 @@
+[
+    {
+        "type": "issue",
+        "id": 1455829643,
+        "state": "closed",
+        "title": "Lorem Ipsum Lorem Ipsum",
+        "body": "",
+        "user": "loremipsum",
+        "labels":
+        [
+            {
+                "id": 1738049645,
+                "name": "in: documentation"
+            },
+            {
+                "id": 1738049962,
+                "name": "type: bug"
+            }
+        ],
+        "closed_at": "2022-11-19T07:48:01Z",
+        "started_at": "2022-11-18T21:25:48Z",
+        "repository": "https://api.github.com/repos/spring-projects/spring-batch"
+    },
+    {
+        "type": "issue",
+        "id": 1455829644,
+        "state": "open",
+        "title": "Lorem Ipsum Lorem Ipsum",
+        "body": "",
+        "user": "loremipsum",
+        "labels":
+        [
+            {
+                "id": 1738049646,
+                "name": "in: revision"
+            },
+            {
+                "id": 1738049963,
+                "name": "type: enhancement"
+            }
+        ],
+        "closed_at": "2022-11-20T07:48:01Z",
+        "started_at": "2022-11-19T21:25:48Z",
+        "repository": "https://api.github.com/repos/spring-projects/spring-batch"
+    }
+]
